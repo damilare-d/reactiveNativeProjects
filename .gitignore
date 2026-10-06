@@ -1,0 +1,19 @@
+# leftover per-project git histories from before this became one repo
+**/.git-old-standalone-repo/
+
+# dependencies
+**/node_modules/
+
+# expo
+**/.expo/
+**/dist/
+**/web-build/
+
+# native
+**/ios/
+**/android/
+
+# misc
+**/.DS_Store
+**/*.log
+**/npm-debug.*
